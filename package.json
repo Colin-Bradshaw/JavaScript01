@@ -1,0 +1,23 @@
+{
+  "name": "my_first_package",
+  "version": "1.0.0",
+  "description": "Basic package with dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colin-Bradshaw/JavaScript01.git"
+  },
+  "author": "Colin Bradshaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Colin-Bradshaw/JavaScript01/issues"
+  },
+  "homepage": "https://github.com/Colin-Bradshaw/JavaScript01#readme",
+  "dependencies": {
+    "abbrev": "^1.1.1",
+    "bin-links": "^1.1.8"
+  }
+}
